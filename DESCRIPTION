@@ -1,14 +1,13 @@
 Package: radv2danielpackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Calculating individual PiPS grades 
 Version: 0.1.0
 Authors@R: c(
     person(
       "Daniel", "Borissevitch"
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: Use to calculate desired grades for exam for given end-grade with given assignment grade. Also use for calculating final grade.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
