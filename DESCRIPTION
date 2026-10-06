@@ -2,11 +2,9 @@ Package: radv2danielpackage
 Type: Package
 Title: Calculating individual PiPS grades 
 Version: 0.1.0
-Authors@R: c(
-    person(
-      "Daniel", "Borissevitch"
-    )
-  )
+Authors@R: person("Daniel", "Borissevitch",
+                  email = "your.email@example.com",
+                  role = c("aut", "cre"))
 Description: Use to calculate desired grades for exam for given end-grade with given assignment grade. Also use for calculating final grade.
 License: What license is it under?
 Encoding: UTF-8
